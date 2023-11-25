@@ -10,7 +10,8 @@
 В моем репозитории можно найти некоторые из моих проектов:
 
 - [TurtleBot](https://github.com/Syatov/TurtleBot) - Дискорд бот для отправки анкет
-- [PoopLandBot](https://github.com/Syatov/PoopTelegram) - Информативный телеграмм бот со своими секретами
+- [Slay english bot](https://github.com/Syatov/Slay-English-Bot) - Телеграмм бот для изучения англиского
+- [Licey35Bot](https://github.com/Syatov/Licey35Bot) - Телеграмм бот для школьников
 
 ## Языки программирования
 
