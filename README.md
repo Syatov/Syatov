@@ -1,7 +1,7 @@
 # Amir
 
 ## Мои контакты
-- 📱Telegram: [@Syatov](https://t.me/Syatov)
+- 7018997059:AAH6JhxqM2psoco-FKknDVNrL6argxDdMz8📱Telegram: [@Syatov](https://t.me/Syatov)
 
 ## Проекты
 
