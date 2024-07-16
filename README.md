@@ -7,9 +7,9 @@
 
 В моем репозитории можно найти некоторые из моих проектов:
 
-- [Futurismo bit]([https://github.com/Syatov/TurtleBot](https://github.com/Syatov/Futurismo-bot)) - Универсальный дискорд бот
-- [Slay english bot](https://github.com/Syatov/Slay-English-Bot) - Телеграмм бот для понятия lvl eng
-- [Goole-Sheet-Bot]([Google-Shets--TG-bot](https://github.com/Syatov/Google-Shets--TG-bot)) - Телеграмм бот для рефералов и учета клиентов с занесение в google таблицу
+- [Futurismo bot]([https://github.com/Syatov/Futurismo-bot]) - Универсальный дискорд бот
+- [Slay english bot]([https://github.com/Syatov/Slay-English-Bot]) - Телеграмм бот для понятия lvl eng
+- [Goole-Sheet-Bot]([https://github.com/Syatov/Google-Shets--TG-bot]) - Телеграмм бот для рефералов и учета клиентов с занесение в google таблицу
 
 ## Языки программирования
 
