@@ -1,6 +1,6 @@
 # Сятов Амир
 
-**Позиция:** *Python jun+/middle*
+**Позиция:** *Python jun+/middle , Game server developer , DevOps*
 
 ## Обо мне
 • [Подкаст](https://www.youtube.com/watch?v=enoZRj_lbPw)  
@@ -12,15 +12,14 @@
 • *Unix system*  
 • *CloudFare*  
 • *Minecraft server*  
+• *disnake* 
+• *aiogram* 
+• *SQL* 
 
 ## Ссылки
 • [Github](https://github.com/Syatov)  
 • [Telegram](https://t.me/Syatov)  
 • [Codeforces](https://codeforces.com/profile/Syatov)  
-
-## Основной стек
-• *disnake* (Discord боты)  
-• *aiogram* (Telegram боты)  
 
 ## Опыт работы
 • **ApexNodes** — Техподдержка VDS 2года
