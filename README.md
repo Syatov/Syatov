@@ -8,14 +8,14 @@
 
 ## Навыки
 • *Python*  
-• *Docker* 
+• *Docker*  
 • *REST*  
 • *Linux*  
 • *CloudFare*  
 • *Minecraft server*  
-• *disnake* 
-• *aiogram* 
-• *SQL* 
+• *disnake*  
+• *aiogram*  
+• *SQL*  
 
 ## Ссылки
 • [Github](https://github.com/Syatov)  
