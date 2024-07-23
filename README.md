@@ -2,6 +2,10 @@
 
 **Позиция:** *Python jun+/middle*
 
+## Обо мне
+• [Подкаст](https://www.youtube.com/watch?v=enoZRj_lbPw)  
+• [Статья](https://astanahub.com/ru/article/kak-14-letnii-rezident-jaiq-hub-zarabatyvaet-400-tysiach-tenge)  
+
 ## Навыки
 • *Python*  
 • *REST*  
@@ -19,14 +23,17 @@
 • *aiogram* (Telegram боты)  
 
 ## Опыт работы
-• **ApexNodes** — Техподдержка VDS 2г ода
+• **ApexNodes** — Техподдержка VDS 2года
 
-• **Millida** — Создание Minecraft серверов, Python разработчик  6 месяцев
+• **Millida** — Создание Minecraft серверов, Python разработчик 6 месяцев
 
 ## Заказчики
+• *Millida*  
+• *MCRU*  
 • *NewEra*  
 • *Futurismo*  
 • *Minecraft CIS*  
+• *JaiqHub* 
 
 ## Проекты
 - [Futurismo bot](https://github.com/Syatov/Futurismo-bot) - Универсальный дискорд бот
