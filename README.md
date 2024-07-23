@@ -8,8 +8,9 @@
 
 ## Навыки
 • *Python*  
+• *Docker* 
 • *REST*  
-• *Unix system*  
+• *Linux*  
 • *CloudFare*  
 • *Minecraft server*  
 • *disnake* 
