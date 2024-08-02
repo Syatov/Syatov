@@ -36,6 +36,6 @@
 • *JaiqHub* 
 
 ## Проекты
-- [Futurismo bot](https://github.com/Syatov/Futurismo-bot) - Универсальный дискорд бот
+- [Futurismo bot](https://discord.gg/N4JxbJ5suC) - Универсальный дискорд бот
 - [Slay English Bot](https://github.com/Syatov/Slay-English-Bot) - Телеграмм бот для поднятия уровня английского языка
 - [Google-Sheet-Bot](https://github.com/Syatov/Google-Shets--TG-bot) - Телеграмм бот для рефералов и учета клиентов с занесением в Google таблицу
