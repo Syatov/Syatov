@@ -28,13 +28,13 @@
 • **Millida** — Создание Minecraft серверов, Python разработчик 6 месяцев
 
 ## Заказчики
-• [*Millida*](https://millida.net/)  
-• [*MCRU*](https://discord.gg/mcru)
+• [*Millida*](https://millida.net/)   
+• [*MCRU*](https://discord.gg/mcru)   
 • *NewEra*  
 • *Futurismo*  
 • *Minecraft CIS*  
-• [*JaiqHub*](https://www.instagram.com/jaiq.hub)
-• [*ndendena*](https://www.youtube.com/@ndendena)
+• [*JaiqHub*](https://www.instagram.com/jaiq.hub) 
+• [*ndendena*](https://www.youtube.com/@ndendena) 
 
 ## Проекты
 - [Futurismo bot](https://discord.gg/N4JxbJ5suC) - Универсальный дискорд бот
