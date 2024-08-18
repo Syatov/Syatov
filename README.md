@@ -16,6 +16,7 @@
 • *disnake*  
 • *aiogram*  
 • *SQL*  
+• *MySql*  
 
 ## Ссылки
 • [Github](https://github.com/Syatov)  
