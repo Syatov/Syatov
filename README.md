@@ -8,14 +8,12 @@
 
 ## Навыки
 • *Python*  
-• *Docker*  
 • *REST*  
 • *Linux*  
 • *CloudFare*  
 • *Minecraft server*  
 • *disnake*  
 • *aiogram*  
-• *SQL*  
 • *MySql*  
 
 ## Ссылки
