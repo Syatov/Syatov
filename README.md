@@ -1,6 +1,6 @@
 # Сятов Амир
 
-**Позиция:** *Python jun+/middle , Game server developer , DevOps*
+**Позиция:** *Python jun+/middle ,  DevOps*
 
 ## Обо мне
 • [Подкаст](https://www.youtube.com/watch?v=enoZRj_lbPw)  
@@ -11,7 +11,6 @@
 • *REST*  
 • *Linux*  
 • *CloudFare*  
-• *Minecraft server*  
 • *disnake*  
 • *aiogram*  
 • *MySql*  
