@@ -34,7 +34,7 @@
 • [*JaiqHub*](https://www.instagram.com/jaiq.hub)   
 • [*ndendena*](https://www.youtube.com/@ndendena)   
 
-## Проекты
+## Посмотреть мои работы
 - [Futurismo bot](https://discord.gg/N4JxbJ5suC) - Универсальный дискорд бот
-- [Slay English Bot](https://github.com/Syatov/Slay-English-Bot) - Телеграмм бот для поднятия уровня английского языка
+- [Боты Newera](https://discord.gg/S7aRAKMQWh) - Телеграмм бот для поднятия уровня английского языка
 - [Google-Sheet-Bot](https://github.com/Syatov/Google-Shets--TG-bot) - Телеграмм бот для рефералов и учета клиентов с занесением в Google таблицу
