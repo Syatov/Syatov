@@ -1,6 +1,9 @@
 # Сятов Амир
 
-**Позиция:** *Python jun+/middle ,  DevOps*
+**Позиция:** *Python jun+*
+
+## Работа
+Работаю в MixAI
 
 ## Обо мне
 • [Подкаст](https://www.youtube.com/watch?v=enoZRj_lbPw)  
