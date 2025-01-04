@@ -39,5 +39,5 @@
 
 ## Посмотреть мои работы
 - [Futurismo bot](https://discord.gg/N4JxbJ5suC) - Универсальный дискорд бот
-- [Боты Newera](https://discord.gg/S7aRAKMQWh) - Телеграмм бот для поднятия уровня английского языка
+- [Боты Newera](https://discord.gg/S7aRAKMQWh) - Телеграмм и Discord боты для заказа , и также их синхронизация
 - [Google-Sheet-Bot](https://github.com/Syatov/Google-Shets--TG-bot) - Телеграмм бот для рефералов и учета клиентов с занесением в Google таблицу
