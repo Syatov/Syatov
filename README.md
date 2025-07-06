@@ -36,6 +36,5 @@
 ### 📫 How to reach me
 
 - [Telegram](https://t.me/Syatov)
-- [Email](amir@syatov.ru) 
 
 ---
