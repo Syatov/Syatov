@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <a href="https://syatov.ru"><img src="https://img.shields.io/badge/Portfolio-syatov.ru-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://syatov.xyz"><img src="https://img.shields.io/badge/Portfolio-syatov.xyz-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://t.me/syatov"><img src="https://img.shields.io/badge/Telegram-@syatov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:amir@syatov.ru"><img src="https://img.shields.io/badge/Email-amir@syatov.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:amir@syatov.xyz"><img src="https://img.shields.io/badge/Email-amir@syatov.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <p align="center">
@@ -152,7 +152,7 @@ Goal       → connect backend development with reliable DevOps delivery
 
 <p align="center">
   <strong>Need a backend, bot or complete technical solution?</strong><br/>
-  Contact me on <a href="https://t.me/syatov">Telegram</a> or at <a href="mailto:amir@syatov.ru">amir@syatov.ru</a>.
+  Contact me on <a href="https://t.me/syatov">Telegram</a> or at <a href="mailto:amir@syatov.xyz">amir@syatov.xyz</a>.
 </p>
 
 <p align="center">
