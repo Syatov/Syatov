@@ -43,7 +43,7 @@ I want to understand the complete lifecycle of a service: how to design its back
 
 ### 💼 Practical experience
 
-**[Trusted Technologies](https://github.com/trusted-technologies) — Python Developer & Operations Manager** · Current<br>
+**[Trusted Technologies](https://trust-me.host/) — Python Developer & Operations Manager** · Current<br>
 Python development, operational coordination and reliable delivery of infrastructure products for hosting providers.
 
 **ApexNodes — Hosting Technical Support** · 2 years  
