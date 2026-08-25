@@ -135,20 +135,16 @@ Goal       → connect backend development with reliable DevOps delivery
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Syatov&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syatov&theme=github_dark" alt="Amir Syatov GitHub activity"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Syatov&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Amir's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syatov&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syatov&theme=github_dark" alt="Amir's GitHub statistics"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syatov&theme=github_dark" alt="Repositories by language"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syatov&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</p>
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Syatov&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph"/>
 </p>
 
 ---
