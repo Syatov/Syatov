@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0A66C2,100:26A5E4&text=Amir%20Syatov&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20DevOps%20Learner&descAlignY=60&animation=fadeIn" alt="Amir Syatov header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0A66C2,100:26A5E4&text=Amir%20Syatov&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Operations%20Manager&descAlignY=60&animation=fadeIn" alt="Amir Syatov header"/>
 </p>
 
 <p align="center">
@@ -42,6 +42,9 @@ I want to understand the complete lifecycle of a service: how to design its back
 > My goal is to grow into an engineer who can both **build a backend service** and **take responsibility for running it in production**.
 
 ### 💼 Practical experience
+
+**[Trusted Technologies](https://github.com/trusted-technologies) — Python Developer & Operations Manager** · Current<br>
+Python development, operational coordination and reliable delivery of infrastructure products for hosting providers.
 
 **ApexNodes — Hosting Technical Support** · 2 years  
 Supported users and hosting infrastructure, worked with VDS/VPS servers, diagnostics, networking and day-to-day infrastructure issues.
