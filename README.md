@@ -1,159 +1,64 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:0A66C2,100:26A5E4&text=Amir%20Syatov&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Operations%20Manager&descAlignY=60&animation=fadeIn" alt="Amir Syatov header"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=Python+Backend+Developer;Learning+DevOps+and+Cloud+Infrastructure;Linux+%7C+Docker+%7C+Networking+%7C+CI%2FCD;From+backend+code+to+production+deployment" alt="Typing SVG"/>
-  </a>
-</p>
+<sub>PYTHON · BACKEND · INFRASTRUCTURE</sub>
 
-<p align="center">
-  I build Python backend systems and learn how to deliver them reliably —<br/>
-  from APIs and databases to containers, infrastructure and production.
-</p>
+# Hi, I'm Amir Syatov.
 
-<p align="center">
-  <a href="https://syatov.xyz"><img src="https://img.shields.io/badge/Portfolio-syatov.xyz-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://t.me/syatov"><img src="https://img.shields.io/badge/Telegram-@syatov-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="mailto:amir@syatov.xyz"><img src="https://img.shields.io/badge/Email-amir@syatov.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+I build backend services, automation and the infrastructure that keeps them running.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syatov&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Syatov?label=Followers&style=flat&logo=github" alt="GitHub followers"/>
-</p>
+[Website](https://syatov.xyz) · [Telegram](https://t.me/syatov) · [Email](mailto:amir@syatov.xyz)
+
+</div>
 
 ---
 
-### 👨‍💻 About me
+### A little about me
 
-I'm a **16-year-old developer from Kazakhstan**, studying at **Al-Farabi Kazakh National University**. My core is **Python backend development**, while my main learning direction is **DevOps and infrastructure engineering**.
+I'm a Python developer from Kazakhstan and an Operations Manager at
+[Trusted Technologies](https://trust-me.host/). I enjoy taking a project through its
+whole lifecycle — from the first API endpoint to deployment, monitoring and production support.
 
-I want to understand the complete lifecycle of a service: how to design its backend, connect APIs and databases, package it, deploy it, observe it and keep it reliable in production.
-
-- Build Python backends, REST APIs, bots and business automation
-- Work with SQL/MySQL databases and third-party integrations
-- Deploy and troubleshoot services on Linux VDS/VPS servers
-- Practice Docker, Nginx, Caddy, systemd and networking
-- Learn CI/CD, Kubernetes, monitoring, cloud and Infrastructure as Code
-- Strengthen engineering fundamentals through Python algorithms
-
-> My goal is to grow into an engineer who can both **build a backend service** and **take responsibility for running it in production**.
-
-### 💼 Practical experience
-
-**[Trusted Technologies](https://trust-me.host/) — Python Developer & Operations Manager** · Current<br>
-Python development, operational coordination and reliable delivery of infrastructure products for hosting providers.
-
-**ApexNodes — Hosting Technical Support** · 2 years  
-Supported users and hosting infrastructure, worked with VDS/VPS servers, diagnostics, networking and day-to-day infrastructure issues.
-
-**Millida / MCRU — Python Developer**  
-Developed, debugged and deployed high-load Telegram, Discord and VK bots. Worked with backend logic, databases and production environments.
-
-**ООО «Магикрот» — Private Python Contractor**  
-Delivered private Python development for the company's internal business tasks.
-
-**NewEra — Technical Developer**  
-Handled the complete technical side of a design studio: website, Telegram bot, database work and server deployment.
-
-**BatysHub — Resident & Competitive Programmer**  
-Multiple-time participant and prize winner in programming olympiads, with a focus on Python algorithms and problem solving.
-
-### 🚀 Selected projects
-
-#### [RPS Arena](https://github.com/Syatov/SSPgame)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Mini_App-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![USDT](https://img.shields.io/badge/USDT_TRC20-26A17B?style=flat-square&logo=tether&logoColor=white)
-
-A Telegram Mini App for competitive Rock–Paper–Scissors with internal coins and automatic USDT TRC20 deposits.
-
-- Telegram WebApp signed authentication
-- PvP rooms, invitations, matchmaking and game timers
-- Profiles, statistics, history and leaderboard
-- Role-based administration and balance management
-- Exact-amount crypto deposits verified through TronGrid
-
-#### [STVBank](https://github.com/Syatov/STVbank)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Minecraft](https://img.shields.io/badge/Paper_API-62B47A?style=flat-square&logo=minecraft&logoColor=white)
-![Flask](https://img.shields.io/badge/Web_UI-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-A full banking ecosystem for Paper Minecraft servers, combining a Java plugin with a separate web interface.
-
-- Player accounts, transfers and server treasury
-- Transaction history and permission-based roles
-- Fine system with deadlines, penalties and account restrictions
-- In-game GUI and configurable messages
-- Web authentication and account management interface
-
-#### [stvgram](https://github.com/Syatov/stvgram)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Business-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![HTTPX](https://img.shields.io/badge/HTTPX-111827?style=flat-square&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-A multi-user Telegram Business archive bot that preserves accessible messages and media and helps recover deleted content.
-
-- Archives text, voice, video, documents, stickers and captions
-- Restores deleted archived content with clean notifications
-- Exports entire chats as portable HTML/ZIP archives
-- Supports multiple Telegram Business users in one service
-- Async Telegram API communication and SQLite storage
-
-### 🧰 Backend & DevOps stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,linux,docker,nginx,bash,git,github,githubactions,kubernetes,terraform,ansible,prometheus,cloudflare&perline=8" alt="Backend and DevOps stack"/>
-</p>
-
-| Direction | Technologies |
-|---|---|
-| Backend — working with | Python, Flask, REST APIs, async Python, SQL, MySQL, SQLite |
-| Automation — working with | Telegram Bot API, aiogram 3, disnake, VK API, third-party APIs |
-| Infrastructure — working with | Linux, VDS/VPS, Docker, Nginx, Caddy, Gunicorn, systemd, Cloudflare |
-| DevOps — currently learning | CI/CD, Kubernetes, monitoring, cloud, Terraform, Ansible |
-| Fundamentals | Git, Bash, networking, processes, permissions, HTTP, DNS, TLS |
-| Additional experience | Java, Paper API, Gradle, JavaScript, blockchain API integrations |
-
-### 🎯 Current direction
+Right now I'm studying at Al-Farabi Kazakh National University and going deeper into
+DevOps, cloud infrastructure and reliable backend architecture.
 
 ```text
-Building   → Python backends, REST APIs and automation services
-Practicing → Linux administration, Docker, deploy and networking
-Learning   → CI/CD, Kubernetes, monitoring, cloud, Terraform and Ansible
-Goal       → connect backend development with reliable DevOps delivery
+building   backend services · bots · automation
+operating  Linux servers · containers · networks
+learning   Kubernetes · IaC · cloud engineering
 ```
 
-### 📊 GitHub activity
+### Selected work
 
-<p align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Syatov&theme=github_dark" alt="Amir Syatov GitHub activity"/>
-</p>
+**[Aventrax Arena](https://github.com/Syatov/KMNminiapp)**<br>
+A Telegram Mini App for competitive games with profiles, rooms, wallets and server-side validation.
 
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Syatov&theme=github_dark" alt="Amir's GitHub statistics"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Syatov&theme=github_dark" alt="Repositories by language"/>
-</p>
+**[stvgram](https://github.com/Syatov/stvgram)**<br>
+A Telegram Business archive bot that preserves messages and media and exports chats to HTML/ZIP.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syatov&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-</p>
+**[Syatov Homelab](https://github.com/Syatov/homelab)**<br>
+My self-hosted environment for storage, monitoring, automation, alerts and personal services.
+
+**[STVBank](https://github.com/Syatov/STVbank)**<br>
+A banking ecosystem for Paper Minecraft servers with a Java plugin and separate web interface.
+
+### Tools I work with
+
+`Python` `Flask` `FastAPI` `SQL` `MySQL` `SQLite` `Linux` `Docker` `Nginx`<br>
+`Caddy` `systemd` `GitHub Actions` `Cloudflare` `Tailscale` `Prometheus` `Grafana`
+
+### Current role
+
+**Python Developer & Operations Manager** at
+**[Trusted Technologies](https://trust-me.host/)** — Python development, operational
+coordination and reliable delivery of infrastructure products for hosting providers.
 
 ---
 
-<p align="center">
-  <strong>Need a backend, bot or complete technical solution?</strong><br/>
-  Contact me on <a href="https://t.me/syatov">Telegram</a> or at <a href="mailto:amir@syatov.xyz">amir@syatov.xyz</a>.
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:0D1117,45:0A66C2,100:26A5E4&section=footer" alt="Footer"/>
-</p>
+Have an idea or want to work together?<br>
+**[Message me on Telegram](https://t.me/syatov)** or write to **[amir@syatov.xyz](mailto:amir@syatov.xyz)**.
+
+<sub>DEV BY SYATOV · ALMATY, KAZAKHSTAN</sub>
+
+</div>
