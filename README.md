@@ -1,10 +1,10 @@
 <div align="center">
 
-<sub>PYTHON · BACKEND · INFRASTRUCTURE</sub>
+<sub>DEVOPS · PLATFORM ENGINEERING · LINUX</sub>
 
 # Hi, I'm Amir Syatov.
 
-I build backend services, automation and the infrastructure that keeps them running.
+DevOps engineer working on application delivery, infrastructure automation and reliable service operations.
 
 [Website](https://syatov.xyz) · [Telegram](https://t.me/syatov) · [Email](mailto:amir@syatov.xyz)
 
@@ -12,45 +12,60 @@ I build backend services, automation and the infrastructure that keeps them runn
 
 ---
 
-### A little about me
+### About me
 
-I'm a Python developer from Kazakhstan and an Operations Manager at
-[Trusted Technologies](https://trust-me.host/). I enjoy taking a project through its
-whole lifecycle — from the first API endpoint to deployment, monitoring and production support.
+I'm based in Almaty, Kazakhstan. At [Trusted Technologies](https://trust-me.host/),
+I work across DevOps and operations: Linux, Docker, CI/CD and Kubernetes-based application management.
+My background in hosting support and Python development helps me investigate problems
+across both infrastructure and application code.
 
-Right now I'm studying at Al-Farabi Kazakh National University and going deeper into
-DevOps, cloud infrastructure and reliable backend architecture.
+I like turning manual procedures into repeatable deployments, testing failure paths
+and leaving clear operational documentation behind.
 
 ```text
-building   backend services · bots · automation
-operating  Linux servers · containers · networks
-learning   Kubernetes · IaC · cloud engineering
+deliver    GitHub Actions · Docker Compose · deployment verification
+operate    Linux · Kubernetes / K3s · networking · observability
+automate   Ansible · Bash · Python · infrastructure APIs
 ```
 
-### Selected work
+### Experience
 
-**[Aventrax Arena](https://github.com/Syatov/KMNminiapp)**<br>
-A Telegram Mini App for competitive games with profiles, rooms, wallets and server-side validation.
+**Trusted Technologies — DevOps / Operations Manager** · May 2026 — present
 
-**[stvgram](https://github.com/Syatov/stvgram)**<br>
-A Telegram Business archive bot that preserves messages and media and exports chats to HTML/ZIP.
+- Maintain Docker Compose deployments with application services, Nginx, databases and independent background workers.
+- Build GitHub Actions pipelines with tests before deployment, database backups, health checks and published-version verification.
+- Develop Kubernetes API integrations for provisioning and managing applications, PostgreSQL, Redis and application gateways.
+- Work with K3s and Cilium: workloads, Services, PVCs, RBAC, Secrets and NetworkPolicy; verify changes on a live multi-node test environment.
+- Automate worker onboarding and maintenance with Ansible, including short-lived bootstrap credentials and checks around persistent volumes.
+- Improve recovery workflows through idempotent retries, resumable operations, ownership checks and protection against duplicate resources.
+- Implement application logs, interactive terminals, file operations and resource controls through a management panel.
+- Contribute Python backend integrations, API endpoints, background processing and regression tests alongside infrastructure work.
 
-**[Syatov Homelab](https://github.com/Syatov/homelab)**<br>
-My self-hosted environment for storage, monitoring, automation, alerts and personal services.
+**ApexNodes — Hosting Technical Support, L1 → L3** · November 2023 — March 2026
 
-**[STVBank](https://github.com/Syatov/STVbank)**<br>
-A banking ecosystem for Paper Minecraft servers with a Java plugin and separate web interface.
+Diagnosed Linux, VPS/VDS and hosting-panel incidents, investigated Zabbix alerts,
+troubleshot networking and restored affected services.
 
-### Tools I work with
+**Millida — Python Developer / System Administrator** · December 2023 — April 2024
 
-`Python` `Flask` `FastAPI` `SQL` `MySQL` `SQLite` `Linux` `Docker` `Nginx`<br>
-`Caddy` `systemd` `GitHub Actions` `Cloudflare` `Tailscale` `Prometheus` `Grafana`
+Maintained Python bots and platform API integrations, fixed application errors
+and supported their deployment and day-to-day operation.
 
-### Current role
+### Core tools
 
-**Python Developer & Operations Manager** at
-**[Trusted Technologies](https://trust-me.host/)** — Python development, operational
-coordination and reliable delivery of infrastructure products for hosting providers.
+**Delivery & automation:** Linux, Docker, Docker Compose, GitHub Actions, Ansible, Bash.<br>
+**Orchestration:** Kubernetes, K3s, Cilium, RBAC, NetworkPolicy, persistent volumes.<br>
+**Operations:** Nginx, DNS, TLS, WireGuard, Cloudflare, Prometheus, Grafana, Loki, Zabbix.<br>
+**Supporting development:** Python, Flask, FastAPI, SQL and TypeScript integrations.
+
+### Personal projects
+
+**[Homelab](https://github.com/Syatov/homelab)** — self-hosted services with Docker Compose,
+monitoring and centralised logs, VPN access, external availability checks, backups,
+Ansible playbooks and deployment runbooks.
+
+**[STVGram](https://github.com/Syatov/stvgram)** — a Python Telegram Business archive bot:
+message and media storage, chat exports and service operation.
 
 ---
 
