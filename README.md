@@ -14,7 +14,7 @@ DevOps engineer working on application delivery, infrastructure automation and r
 
 ### About me
 
-I'm based in Almaty, Kazakhstan. At [Trusted Technologies](https://trust-me.host/),
+I'm based in Almaty, Kazakhstan. At [Trusted Technologies](https://latency.date/index.php?latency_page=about),
 I work across DevOps and operations: Linux, Docker, CI/CD and Kubernetes-based application management.
 My background in hosting support and Python development helps me investigate problems
 across both infrastructure and application code.
@@ -30,7 +30,7 @@ automate   Ansible · Bash · Python · infrastructure APIs
 
 ### Experience
 
-**Trusted Technologies — DevOps / Operations Manager** · May 2026 — present
+**[Trusted Technologies](https://latency.date/index.php?latency_page=about) — DevOps / Operations Manager** · May 2026 — present
 
 - Maintain Docker Compose deployments with application services, Nginx, databases and independent background workers.
 - Build GitHub Actions pipelines with tests before deployment, database backups, health checks and published-version verification.
